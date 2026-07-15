@@ -22,7 +22,7 @@ Praticar conceitos fundamentais da linguagem Java, incluindo:
 - Entrada e saída de dados
 
 ### Como executar
-1- Clone o repositório
-2- Abra o projeto em uma IDE Java
-3- Execute a classe principal
-4- Informe os dados solicitados
+1- Clone o repositório <br>
+2- Abra o projeto em uma IDE Java <br>
+3- Execute a classe principal <br>
+4- Informe os dados solicitados <br>
